@@ -48,7 +48,7 @@ Simply open the **index.html** file in your favorite web browser.
 
 
 
-![Project Preview](images/preview.png)
+![Project Preview](images/ui.png)
 
 
 
